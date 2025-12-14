@@ -23,4 +23,9 @@ git config --global user.email "joel2323@gmail.com": setear un email a nivel glo
 git init: iniciar git en el directorio actual
 git branch -m "cambiar rol": cambiar el nombre de master por otra cosa
 
+git add "nombre del fichero": prepararlo para commitear
+git commit -m "nombre del fichero": commmitearlo
+git log: ver los commits
+
+
 */
