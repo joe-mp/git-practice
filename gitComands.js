@@ -2,7 +2,7 @@ console.log("Version 1")
 
 /*comandos basicos de consola
 
-cd: cambiar directorio (con tabulador autocompleto)
+cd: cambiar directorio (con tabulador autocompleto), entre "" si tuviera espacios
 ..: vuelvo al directorio anterio
 pwd: me dice la ruta del directorio en el q me encuentro
 mkdir "nombre\ de\ la\ carpeta": crear carpetas
@@ -31,5 +31,9 @@ git log: ver los commits
 git log graph: ver los commits mas ordenados
 git diff: muestra los cambios en el fichero
 git checkout: volver a un fichero anterior
+git checkout "numero del fichero": me muevo al fichero deseado
+git checkout main: volver al final
+git diff: me dice las diferencias del fichero actual y el ultimo guardado
+
 
 */
