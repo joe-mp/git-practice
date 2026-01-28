@@ -1,5 +1,8 @@
 console.log("Version 1")
 
+/*   https://github.com/mouredev/hello-git 
+https://training.github.com/downloads/es_ES/github-git-cheat-sheet/   */
+
 /*comandos basicos de consola
 
 cd: cambiar directorio (con tabulador autocompleto), entre "" si tuviera espacios
@@ -44,5 +47,14 @@ git checkout tags/nombreDelTag: moverme a un tag
 
 git branch nombreDelaRama: creo una nueva rama desde la posicion actual
 git switch nombreDelaRama: me muevo de rama
+git branch -d nombreDelaRama: borrar rama
 
+git stash: guardar temporalmente sin commitear
+git stash list: lista de los stash guardados
+git stash pop: recuperar lo guardado
+git stash drop: borra el stash
+
+git push: subir actualizaciones a github
+git fetch: ver cambios sin descargar
+git pull origin main: traerse los cambios desde github
 */
