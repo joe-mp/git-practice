@@ -57,4 +57,6 @@ git stash drop: borra el stash
 git push: subir actualizaciones a github
 git fetch: ver cambios sin descargar
 git pull origin main: traerse los cambios desde github
+git rm nombreDelArchivo: para borrar archivos OJO, luego debo hacer un commit y un push
+
 */
