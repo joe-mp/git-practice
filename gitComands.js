@@ -59,4 +59,5 @@ git fetch: ver cambios sin descargar
 git pull origin main: traerse los cambios desde github
 git rm nombreDelArchivo: para borrar archivos OJO, luego debo hacer un commit y un push
 
+git clone ingresoElLInkSSH: clono el repositorio en eldirectorio actual
 */
